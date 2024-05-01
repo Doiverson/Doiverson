@@ -29,10 +29,10 @@
 
 <p align="center">
   <a href="https://github.com/Doiverson">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" width="49.5%" alt="Sho's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
   </a>
   <a href="https://github.com/Doiveson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact" height="195px" width="49.5%" alt="Sho's GitHub streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
   </a>
 </p>
 
