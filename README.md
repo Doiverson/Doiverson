@@ -1,5 +1,6 @@
 ## Use To Code
 ### Frontend Technologies
+
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -13,27 +14,27 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ### Backend Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 <p align="center">
-  <a href="https://github.com/Doiverson">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
-  </a>
-  <a href="https://github.com/Doiveson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact&langs_count=4&hide=php" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
 </p>
 
 
