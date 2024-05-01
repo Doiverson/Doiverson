@@ -1,4 +1,5 @@
 ## Use To Code
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact&langs_count=4&hide=php" height="195px" alt="Sho's GitHub streak"/>
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -29,14 +30,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </br>
-</br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" alt="Sho's GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact&langs_count=4&hide=php" height="195px" alt="Sho's GitHub streak"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" height="195px" alt="Sho's GitHub streak"/>
 
-</br>
 </br>
 
 ![Sho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Doiverson&bg_color=282828&color=ffffff&line=fabd2e&point=ffffff&area=true&hide_border=true)
