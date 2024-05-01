@@ -29,16 +29,12 @@
 
 <p align="center">
   <a href="https://github.com/Doiverson">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" alt="Sho's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" width="49.5%" alt="Sho's GitHub streak"/>
+  </a>
+  <a href="https://github.com/Doiveson">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact" height="195px" width="49.5%" alt="Sho's GitHub streak"/>
   </a>
 </p>
 
-<!---
-<p align="center">
-  <a href="https://github.com/Doiveson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox" alt="Sho's GitHub streak"/>
-  </a>
-</p>
---->
 
 ![Sho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Doiverson&bg_color=282828&color=ffffff&line=fabd2e&point=ffffff&area=true&hide_border=true)
