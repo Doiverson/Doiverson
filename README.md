@@ -33,8 +33,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doiverson&theme=gruvbox&layout=compact&langs_count=4&hide=php" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Doiverson&theme=gruvbox" height="192px" width="49.5%" alt="Sho's GitHub streak"/>
 </p>
 
 
